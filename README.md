@@ -1,7 +1,7 @@
 # Public Health Command Center
 An interactive educational game that puts you in the role of a public health official responding to real world crises. Make decisions about disease outbreaks, environmental emergencies, health equity challenges, and pandemic preparedness - then get scored on how well your response matches evidence-based best practices.
 
-Play it now: thepublichealthgame.com
+Play it now: https://thepublichealthgame.com
 ## How It Works
 You're presented with a public health scenario - anything from a cholera outbreak in Sub-Saharan Africa to a wildfire smoke emergency in a megacity to an ethical dilemma about AI-powered disease surveillance. You type your response as the health official in charge, and the game scores you based on how many key concepts and best practices you address.
 
